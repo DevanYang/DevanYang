@@ -1,10 +1,10 @@
 <div align="center">
 <h1>Hey! I am DevanYang</h1>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C00&center=true&vCenter=true&random=false&width=440&lines=Front-end+engineer;Like+Python+and+JavaScript" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
+
 [![lang](https://img.shields.io/badge/lang-python-4f90c6?style=flat-square)](https://www.typescriptlang.org/)
 [![lang](https://img.shields.io/badge/lang-typescript-informational?style=flat-square)](https://www.typescriptlang.org/)
 [![lang](https://img.shields.io/badge/framework-vue-42b883?style=flat-square)](https://vuejs.org/)
